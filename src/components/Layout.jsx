@@ -31,7 +31,7 @@ export default function Layout(props) {
 
     const footer = (
         <footer>
-            <p><span className="text-gradient">KoffeeRam</span> was made by Dennis Montford Jr.<br/>Check out the project on <a target="_black" href="https://github.com/DennisMontford/kfrm">Github</a>!</p>
+            <p><span className="text-gradient">KoffeeRam</span> was made by <a href="https://portfolio-eta-ruby-18.vercel.app/" target="_blank" rel="noopener noreferrer"> Dennis Montford</a> <br/>Check out the project on <a target="_black" href="https://github.com/DennisMontford/kfrm">Github</a>!</p>
         </footer>
     )
 
